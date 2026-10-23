@@ -1,0 +1,13 @@
+{
+  "appId": "com.mediclarify.app",
+  "appName": "MediClarify",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "Camera": {
+      "presentationStyle": "popover"
+    }
+  }
+}
